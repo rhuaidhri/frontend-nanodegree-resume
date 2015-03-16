@@ -1,0 +1,6 @@
+http://jsonlint.com/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function
+http://discussions.udacity.com/t/resumebuilder-js-functions-inside-objects/4540/2
